@@ -8,13 +8,13 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyC_ZHOMTqH_JHq_r3bQy3AgBW1YrOWPKjY",
+  apiKey: "AIzaSyC_ZHOMTqH_JHq_r3bQy3AgBW1YrOacdsWY",
   authDomain: "airbnb-react-auth.firebaseapp.com",
   projectId: "airbnb-react-auth",
   storageBucket: "airbnb-react-auth.appspot.com",
-  messagingSenderId: "1078496445290",
-  appId: "1:1078496445290:web:43ae7d4d0feeb405f11b13",
-  measurementId: "G-VS97E9GKYG",
+  messagingSenderId: "1078496442290",
+  appId: "1:1078496445290:web:43ae7d412423eb405f11b13",
+  measurementId: "G-VS97E1e324YG",
   /*   apiKey: process.env.API_KEY,
   authDomain: process.env.AUTHDOMAIN,
   projectId: "airbnb-react-auth",
